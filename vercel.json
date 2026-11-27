@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/order", "destination": "http://163.52.135.154:3249/order" }
+  ]
+}
